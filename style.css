@@ -40,7 +40,7 @@ a {
 .nav_optns1 {
     display: flex;
     justify-content: space-evenly;
-    width: 67%;
+    width: 60%;
 }
 
 .nav_optns1 img {
@@ -49,7 +49,7 @@ a {
 }
 
 .optn_cat {
-    width: 700px;
+    width: 600px;
 }
 
 .optn_cat ul {
@@ -85,7 +85,7 @@ a {
 .nav_optns2 {
     display: flex;
     justify-content: space-evenly;
-    width: 33%;
+    width: 30%;
     align-items: center;
 }
 
@@ -96,7 +96,7 @@ a {
     margin: 10px;
 }
 .search_icon {
-    transform: translateX(53px);
+    transform: translateX(45px);
 }
 .menu_icon {
     size: 30px;
